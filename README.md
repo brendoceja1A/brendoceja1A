@@ -4,6 +4,8 @@
 - 🌱 Atualmente estou aprendendo Pensamento Computacional 
 
 
+
+
 ![image](https://user-images.githubusercontent.com/103517975/164030496-14692da2-f32a-4e08-b6a4-5eb81a1d3615.png)
 
   ### Dor e Sofrimento
