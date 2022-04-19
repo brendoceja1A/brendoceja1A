@@ -3,7 +3,10 @@
 - 🔭 Atualmente estou na escola
 - 🌱 Atualmente estou aprendendo Pensamento Computacional 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+            ###     Dor e Sofrimento
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
             
            
 <a href="https://github.com/brendoceja1A">
