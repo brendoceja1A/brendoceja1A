@@ -13,4 +13,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendoceja1A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![gif](https://user-images.githubusercontent.com/103517975/164030283-63cc026f-9cae-44c5-80e2-90d54c377a6d.gif)
+![image](https://user-images.githubusercontent.com/103517975/164030496-14692da2-f32a-4e08-b6a4-5eb81a1d3615.png)
