@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou na escola
 - 🌱 Atualmente estou aprendendo Pensamento Computacional 
 
-            <img src="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css" width="50" height="50"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
             
             <div>
 <a href="https://github.com/brendoceja1A">
