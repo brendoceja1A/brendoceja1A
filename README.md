@@ -8,9 +8,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
             
-           
-<https://c.tenor.com/Ry9PSsQTcxoAAAAd/who-are-you-cat.gif
+           <div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoceja1A&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendoceja1A&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-<div class="tenor-gif-embed" data-postid="24607471" data-share-method="host" data-aspect-ratio="0.7125" data-width="100%"><a href="https://tenor.com/view/who-are-you-cat-cat-staring-confused-weird-gif-24607471">Who Are You Cat GIF</a>from <a href="https://tenor.com/search/who+are+you-gifs">Who Are You GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
+![image](https://user-images.githubusercontent.com/103517975/164030283-63cc026f-9cae-44c5-80e2-90d54c377a6d.png)
